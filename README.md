@@ -10,7 +10,7 @@ Typ              | Šablona | Struktura | Decompiler | Remaker | Viewer
 **help**         | -       | -         | -          | -       | -
 **images**       | 99 %    | 99 %      | 99 %       | 75 %    | -
 **index**        | -       | -         | -          | -       | -
-**music**        |         |           |            |         | -
+**music**        | 99 %    | 99 %      | 99 %       | 5 %     | -
 **screensaver**  | -       | -         | -          | -       | -
 **texts**        |         |           |            |         | -
 **video**        | -       | -         | -          | -       | -
