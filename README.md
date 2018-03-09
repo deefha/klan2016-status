@@ -3,7 +3,7 @@
 Typ              | Šablona | Struktura | Decompiler | Remaker | Viewer
 -----------------|---------|-----------|------------|---------|-------
 **arklanoid**    | -       | -         | -          | -       | -
-**audio**        |         |           |            |         | -
+**audio**        | 99 %    | 99 %      | 99 %       |         | -
 **cursors**      |         |           |            |         | -
 **descriptions** | -       | -         | -          | -       | -
 **fonts**        |         |           |            |         | -
