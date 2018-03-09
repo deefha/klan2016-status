@@ -12,5 +12,5 @@ Typ              | Šablona | Struktura | Decompiler | Remaker | Viewer
 **index**        | -       | -         | -          | -       | -
 **music**        | 99 %    | 99 %      | 99 %       | 5 %     | -
 **screensaver**  | -       | -         | -          | -       | -
-**texts**        |         |           |            |         | -
+**texts**        | 50 %    | 0 %       | 0 %        | 0 %     | -
 **video**        | -       | -         | -          | -       | -
