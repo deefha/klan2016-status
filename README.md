@@ -1,6 +1,6 @@
 ## Knihovny
 
-             | Šablona | Struktura | Decompiler | Remaker | Viewer
+Typ          | Šablona | Struktura | Decompiler | Remaker | Viewer
 -------------|---------|-----------|------------|---------|-------
 arklanoid    | -       | -         | -          | -       | -
 audio        |         |           |            |         | -
