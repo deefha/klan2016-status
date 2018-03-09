@@ -6,9 +6,9 @@ Typ              | Šablona | Struktura | Decompiler | Remaker | Viewer
 **audio**        | 99 %    | 99 %      | 99 %       | 29 %    | -
 **cursors**      | 99 %    | 99 %      | 99 %       | 99 %    | -
 **descriptions** | -       | -         | -          | -       | -
-**fonts**        |         |           |            |         | -
+**fonts**        | 99 %    | 99 %      | 99 %       | 99 %    | -
 **help**         | -       | -         | -          | -       | -
-**images**       |         |           |            |         | -
+**images**       | 99 %    | 99 %      | 99 %       | 75 %    | -
 **index**        | -       | -         | -          | -       | -
 **music**        |         |           |            |         | -
 **screensaver**  | -       | -         | -          | -       | -
